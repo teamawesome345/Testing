@@ -1,4 +1,4 @@
-//AND WE CAN'T HAVE NICE THINGS
+//AND WE CAN'T HAVE NICE THINGS, So
 //  AppDelegate.h
 //  Test
 //
